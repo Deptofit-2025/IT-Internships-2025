@@ -1,8 +1,8 @@
-Academic Management System
+**Academic Management System**
 This is a comprehensive Academic Management System designed to streamline and automate various administrative, teaching, and parental tasks for a school or educational institution. The system is built using Python and the Streamlit framework, providing an intuitive, web-based interface for different user roles.
 
 Features by Module
-Admin Dashboard
+**Admin Dashboard**
 This module provides administrators with a centralized control center for school operations.
 
 Student Management: Admins can add, edit, and delete student records.
@@ -17,7 +17,7 @@ Events & Notices: A platform to publish and manage school-wide announcements and
 
 Data Persistence: All data is stored in local JSON files within a data directory.
 
-Teacher Portal
+**Teacher Portal**
 This module provides teachers with a robust set of tools to manage their daily academic and administrative tasks.
 
 Attendance Tracking: Easily mark and save student attendance on a daily basis.
@@ -36,7 +36,7 @@ Leave Management: Apply for leave and track the status of applications.
 
 School Essentials: A simple portal to order school supplies and stationery.
 
-Parent Portal
+**Parent Portal**
 This module is a secure and intuitive interface for parents to interact with the school and monitor their child's progress.
 
 Secure Authentication: Parents can register and log in using their child's unique admission number.
@@ -55,7 +55,7 @@ Assignments & Resources: View assignments with due dates and download learning r
 
 Leave Application: A form to easily submit leave applications for a child.
 
-Technologies Used
+**Technologies Used**
 Python: The core programming language for the application.
 
 Streamlit: For building the interactive, web-based user interface.
@@ -72,10 +72,10 @@ Python 3.7 or higher
 
 pip (Python package installer)
 
-Installation
+**Installation**
 Clone this repository or download the dashboard.py file.
-
-Bash
+**
+Bash**
 
 git clone <repository-url>
 cd <repository-folder>
@@ -94,7 +94,7 @@ Bash
 streamlit run dashboard.py
 Your default web browser will open and display the application.
 
-Project Structure
+**Project Structure**
 .
 ├── data/
 │   ├── attachments/
